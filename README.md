@@ -151,6 +151,6 @@ pip install -r requirements.txt
 
 ---
 
-md文件通过colipt生成+作者小改
+md文件通过colipt生成+作者小改 
 
 如有问题或建议，欢迎在GitHub仓库提交Issue或PR。
